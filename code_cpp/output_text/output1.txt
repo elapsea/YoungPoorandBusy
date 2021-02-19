@@ -1,0 +1,39 @@
+The available train information : 
+Hakodate Morioka 8:15 12:30 2500
+Morioka Hakodate 14:05 17:30 2500
+Morioka Hakodate 15:30 18:00 3000
+Morioka Tokyo 14:30 17:50 3000
+Tokyo Morioka 8:30 13:35 3000
+
+The most expensive train : 
+Morioka Hakodate 15:30 18:00 3000
+Morioka Tokyo 14:30 17:50 3000
+Tokyo Morioka 8:30 13:35 3000
+
+The most time-consuming train : 
+Tokyo Morioka 8:30 13:35 3000
+
+to_Hakodate : 
+from_Hakodate_at_8:00 : 0		from_Hakodate_at_8:15 : 0		from_Hakodate_at_8:30 : 0		from_Hakodate_at_12:30 : 0		from_Hakodate_at_13:35 : 0		from_Hakodate_at_14:05 : 0		from_Hakodate_at_14:30 : 0		from_Hakodate_at_15:30 : 0		from_Hakodate_at_17:30 : 0		from_Hakodate_at_17:50 : 0		from_Hakodate_at_18:00 : 0		
+from_Morioka_at_8:00 : 2500		from_Morioka_at_8:15 : 2500		from_Morioka_at_8:30 : 2500		from_Morioka_at_12:30 : 2500		from_Morioka_at_13:35 : 2500		from_Morioka_at_14:05 : 2500		from_Morioka_at_14:30 : 3000		from_Morioka_at_15:30 : 3000		from_Morioka_at_17:30 : 999999		from_Morioka_at_17:50 : 999999		from_Morioka_at_18:00 : 999999		
+from_Tokyo_at_8:00 : 5500		from_Tokyo_at_8:15 : 5500		from_Tokyo_at_8:30 : 5500		from_Tokyo_at_12:30 : 999999		from_Tokyo_at_13:35 : 999999		from_Tokyo_at_14:05 : 999999		from_Tokyo_at_14:30 : 999999		from_Tokyo_at_15:30 : 999999		from_Tokyo_at_17:30 : 999999		from_Tokyo_at_17:50 : 999999		from_Tokyo_at_18:00 : 999999		
+
+to_Tokyo : 
+from_Hakodate_at_8:00 : 5500		from_Hakodate_at_8:15 : 5500		from_Hakodate_at_8:30 : 999999		from_Hakodate_at_12:30 : 999999		from_Hakodate_at_13:35 : 999999		from_Hakodate_at_14:05 : 999999		from_Hakodate_at_14:30 : 999999		from_Hakodate_at_15:30 : 999999		from_Hakodate_at_17:30 : 999999		from_Hakodate_at_17:50 : 999999		from_Hakodate_at_18:00 : 999999		
+from_Morioka_at_8:00 : 3000		from_Morioka_at_8:15 : 3000		from_Morioka_at_8:30 : 3000		from_Morioka_at_12:30 : 3000		from_Morioka_at_13:35 : 3000		from_Morioka_at_14:05 : 3000		from_Morioka_at_14:30 : 3000		from_Morioka_at_15:30 : 999999		from_Morioka_at_17:30 : 999999		from_Morioka_at_17:50 : 999999		from_Morioka_at_18:00 : 999999		
+from_Tokyo_at_8:00 : 0		from_Tokyo_at_8:15 : 0		from_Tokyo_at_8:30 : 0		from_Tokyo_at_12:30 : 0		from_Tokyo_at_13:35 : 0		from_Tokyo_at_14:05 : 0		from_Tokyo_at_14:30 : 0		from_Tokyo_at_15:30 : 0		from_Tokyo_at_17:30 : 0		from_Tokyo_at_17:50 : 0		from_Tokyo_at_18:00 : 0		
+
+from_Hakodate : 
+to_Hakodate_at_8:00 : 0		to_Hakodate_at_8:15 : 0		to_Hakodate_at_8:30 : 0		to_Hakodate_at_12:30 : 0		to_Hakodate_at_13:35 : 0		to_Hakodate_at_14:05 : 0		to_Hakodate_at_14:30 : 0		to_Hakodate_at_15:30 : 0		to_Hakodate_at_17:30 : 0		to_Hakodate_at_17:50 : 0		to_Hakodate_at_18:00 : 0		
+to_Morioka_at_8:00 : 999999		to_Morioka_at_8:15 : 999999		to_Morioka_at_8:30 : 999999		to_Morioka_at_12:30 : 2500		to_Morioka_at_13:35 : 2500		to_Morioka_at_14:05 : 2500		to_Morioka_at_14:30 : 2500		to_Morioka_at_15:30 : 2500		to_Morioka_at_17:30 : 2500		to_Morioka_at_17:50 : 2500		to_Morioka_at_18:00 : 2500		
+to_Tokyo_at_8:00 : 999999		to_Tokyo_at_8:15 : 999999		to_Tokyo_at_8:30 : 999999		to_Tokyo_at_12:30 : 999999		to_Tokyo_at_13:35 : 999999		to_Tokyo_at_14:05 : 999999		to_Tokyo_at_14:30 : 999999		to_Tokyo_at_15:30 : 999999		to_Tokyo_at_17:30 : 999999		to_Tokyo_at_17:50 : 5500		to_Tokyo_at_18:00 : 5500		
+
+from_Tokyo : 
+to_Hakodate_at_8:00 : 999999		to_Hakodate_at_8:15 : 999999		to_Hakodate_at_8:30 : 999999		to_Hakodate_at_12:30 : 999999		to_Hakodate_at_13:35 : 999999		to_Hakodate_at_14:05 : 999999		to_Hakodate_at_14:30 : 999999		to_Hakodate_at_15:30 : 999999		to_Hakodate_at_17:30 : 5500		to_Hakodate_at_17:50 : 5500		to_Hakodate_at_18:00 : 5500		
+to_Morioka_at_8:00 : 999999		to_Morioka_at_8:15 : 999999		to_Morioka_at_8:30 : 999999		to_Morioka_at_12:30 : 999999		to_Morioka_at_13:35 : 3000		to_Morioka_at_14:05 : 3000		to_Morioka_at_14:30 : 3000		to_Morioka_at_15:30 : 3000		to_Morioka_at_17:30 : 3000		to_Morioka_at_17:50 : 3000		to_Morioka_at_18:00 : 3000		
+to_Tokyo_at_8:00 : 0		to_Tokyo_at_8:15 : 0		to_Tokyo_at_8:30 : 0		to_Tokyo_at_12:30 : 0		to_Tokyo_at_13:35 : 0		to_Tokyo_at_14:05 : 0		to_Tokyo_at_14:30 : 0		to_Tokyo_at_15:30 : 0		to_Tokyo_at_17:30 : 0		to_Tokyo_at_17:50 : 0		to_Tokyo_at_18:00 : 0		
+
+fare: 11000 Morioka: 13:35 - 14:05
+Hakodate: 999999
+Morioka: 11000
+Tokyo: 999999

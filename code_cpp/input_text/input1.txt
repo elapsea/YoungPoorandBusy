@@ -1,0 +1,11 @@
+the number of connections: 5
+station1: Hakodate
+station2: Tokyo
+Time_Of_Departure: 08:00
+Time_Of_Arrival: 18:00
+MeetingTime: 30
+Hakodate 08:15 Morioka 12:30 2500
+Morioka 14:05 Hakodate 17:30 2500
+Morioka 15:30 Hakodate 18:00 3000
+Morioka 14:30 Tokyo 17:50 3000
+Tokyo 08:30 Morioka 13:35 3000
